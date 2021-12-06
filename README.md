@@ -10,5 +10,6 @@ Prior to modifications, the code looked like "div soup" and has a lot of extra b
 https://jchapel15.github.io/horiseon-challenge/
 
 ## Screenshot
-![screenshot] (~Desktop/projects/horiseon-challenge/jchapel15.github.io_horiseon-challenge_.png)
+![jchapel15 github io_horiseon-challenge_](https://user-images.githubusercontent.com/49762454/144899132-64819ae1-08e6-43c6-9344-160693715bcf.png)
+
 
