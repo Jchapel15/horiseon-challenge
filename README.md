@@ -10,4 +10,4 @@ Prior to modifications, the code looked like "div soup" and has a lot of extra b
 https://jchapel15.github.io/horiseon-challenge/
 
 ## Screenshot
-![alt text](http://url/to/img.png)
+![screenshot] (jchapel15.github.io_horiseon-challenge_.png)
